@@ -1,0 +1,6 @@
+
+<application>
+    0. init npm to get package.json --> $ npm init
+    1. install express --> $ npm install express --save
+    2. add script in package.json --> $ npm SCRIPT_NAME (in which the SCRIPT is node app.js)
+</application>
